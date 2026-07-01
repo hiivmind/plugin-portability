@@ -8,7 +8,7 @@
       "name": "plugin-portability",
       "source": {
         "source": "local",
-        "path": "./.codex-plugin"
+        "path": "./"
       },
       "policy": {
         "installation": "AVAILABLE",
